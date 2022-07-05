@@ -1,6 +1,12 @@
 # stepik_selenium_course
-some tasks for course
+some tasks from course
 
+#задание из предыдущего раздела находится в папке по [ссылке](https://github.com/DanilaPetelin/stepik_selenium_course/blob/main/chapter_2/lesson4_step8.py)
+
+*(https://github.com/DanilaPetelin/stepik_selenium_course/blob/main/chapter_2/lesson4_step8.py)*
+
+
+----------------------------------------------------
 #__~~Пробуем markdown~~__
 
 
